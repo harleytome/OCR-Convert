@@ -1,0 +1,7 @@
+2018-05-09 (1).pdf-0.jpg.txt ... 
+
+=========== Resumo ==============
+Elapsed time: 0.00093 secs.
+Memory usage: 2 Mb
+Arquivos processados: 1
+
